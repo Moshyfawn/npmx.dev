@@ -190,6 +190,12 @@ headline="Read more from the community"
     title: 'From a Newsletter Link to My First Open Source Contribution',
     authorHandle: 'radosvet.dev',
     description: 'How discovering npmx through a newsletter led to a first meaningful open source contribution and a new perspective on community-driven development.'
+  },
+  {
+    url: 'https://vale.rocks/micros/20260303-1200',
+    title: 'npmx Is Open-Source Done Right',
+    authorHandle: 'vale.rocks',
+    description: 'How the ethos and practices of npmx represent a healthy open-source ecosystem that should be the standard, not an exception.'
   }
 ]"
 />
